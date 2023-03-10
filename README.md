@@ -39,13 +39,9 @@ A script that uses a graphical user interface to make Blooket cheating easier th
 3. Now just login like normally in the [blooket-utility](https://blooket-utility.okr765.com/) page and there you go!
 ### Credits
 
-- [zastix](https://github.com/notzastix) for the underlying UI and some of the hacks
-- [rxzyx](https://github.com/rxzyx) for the blook rush and deceptive dino hacks
-- [Frued Dued](https://github.com/ThatFruedDued) for the awesome [blooket-utility](https://github.com/ThatFruedDued/blooket-utility/)
-- [Echo](https://github.com/3kh0) for some small changes and improvements
-
+- 
 ### Disclaimer
 
 This is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-I am in no way affiliated with Blooket in any way, shape or form. It is not my fault if you get in trouble for using these. Use at your own risk. This was created solely for educational purposes.
+I am in no way affiliated with Blooket in any way, shape or form. It is not my fault if you get in trouble for using these. Use at your own risk. This was created solely for educational purposes
